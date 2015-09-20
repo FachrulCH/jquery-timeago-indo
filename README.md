@@ -1,6 +1,7 @@
 # jquery-timeago-indo
 Penambahan bahasa indonesia masa kini aja :D
-diambil dari:
+<br>diambil dari:
+https://github.com/rmm5t/jquery-timeago
 <hr/>
 # timeago: a jQuery plugin
 
